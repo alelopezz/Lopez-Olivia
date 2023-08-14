@@ -21,12 +21,14 @@
 
 ### *Publico Objetivo Mujeres entre los 25 y 55 años*
 
-### La Tipografía Principal a utilizar sera [LindenHill] (https://fonts.google.com/specimen/Linden+Hill?preview.text=Olivia%20Jeans&preview.text_type=custom)
+### La Tipografía Principal a utilizar sera [LindenHill]
 
-### Paleta de colores:
-![Paleta](https://colors.muz.li/palette/362a33/553344/856763/c49f9a/e0cccf)
+ (https://fonts.google.com/specimen/Linden+Hill?preview.text=Olivia%20Jeans&preview.text_type=custom)
 
+### Paleta de colores:[Paleta](https://colors.muz.li/palette/362a33/553344/856763/c49f9a/e0cccf)
 
-### Logo
- ![Logo](https://dribbble.com/shots/22261777-Olivia-Wilson?added_first_shot=true)
+(C:\Users\aleja\Desktop\Practicos Icaro\Utils\paleta.jpg)
+
+### Logo[Logo](https://dribbble.com/shots/22261777-Olivia-Wilson?added_first_shot=true)
  
+(C:\Users\aleja\Desktop\Practicos Icaro\Utils\logo.jpeg)
