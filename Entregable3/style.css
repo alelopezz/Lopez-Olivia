@@ -1,0 +1,204 @@
+body {
+    background-color: #e0cccf;
+  }
+nav
+{
+display: inline-block;
+width: 740px;
+text-align: right;
+}
+nav ul
+{
+list-style-type: none;
+}
+nav li
+{
+display: inline-block;
+margin-right: 30px;
+}
+nav a
+{
+font-size: 1.3em;
+color: #181818;
+padding-bottom: 3px;
+text-decoration: none;
+}
+nav a:hover
+{
+color: #856763;
+border-bottom: 3px solid #856761;
+
+}
+
+  
+.titulo {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+ .subtitulo {
+
+  width: 95%;
+  text-align: right;
+  display: flex;
+  align-items: right;
+  justify-content: right;
+
+ }
+
+  .container {
+    gap: 1rem;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    
+  }
+  
+  .card {
+    display: flex;
+    gap: 0.1rem;
+    flex-direction: column;
+    width: 30rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+  }
+  
+  .card img {
+    border-radius: 0.1rem;
+    width: 19rem;
+    height: 32rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+
+  }
+
+  .button {
+    background-color: #c49f9a;
+    border: none;
+    color: #856763;
+    padding: 0.2rem;
+    text-transform: uppercase;
+    width: 7rem;
+    height: 0.1rem;
+    border-radius: 30%;
+  }
+  .h1 {
+    text-align: center;
+  }
+  
+.footer
+{
+background-color: #c49f9a;
+padding: 50px;
+}
+.footer-row {
+display: flex;
+flex-wrap: wrap;
+
+}
+.footer-links
+{
+width: auto;
+padding: 30px;
+
+}
+.footer-links h4
+{
+  font-size: 20px
+  color#c49f9a
+  margin-bottom 25x;
+  font-weight: 500;
+  border-bottom: 2px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+
+@media screen and (min-width: 450px)
+{
+
+.nav {
+    display:flex;
+    justify-content:center;
+    
+    }
+    
+      .card {
+        display: flex;
+      }
+      
+      }
+      .h1 {
+        display: flex;
+      }
+        
+      .h4 {
+        display: flex;
+      }
+        
+    
+    .footer
+    {
+    display:flex;
+    justify-content: center; 
+    }
+
+
+  
+  @media screen and (min-width: 630px) and (max-width: 1000px) {
+      
+
+        .nav {
+            display:flex;
+            justify-content: space-evenly;
+            flex-direction: row;
+            }
+            
+              .container {
+                display: flex;
+                justify-content: center; 
+              }
+              .card {
+                display: flex;
+              }
+              .h1 {
+                justify-content: center;
+              }
+                
+              .h4 {
+                justify-content: center;
+              }
+                
+            .footer
+            {
+            display:flex;
+            justify-content: center;
+            }
+            
+  }
+  
+  @media screen and (min-width: 1000px)
+  {
+  
+  .nav {
+      display:flex;
+      justify-content:center;
+      }
+        .container {
+          display: flex;
+          justify-content: center; 
+        }
+        .card {
+          display: flex;
+        }
+      .footer
+      {
+      display:flex;
+      justify-content: center; 
+      } }
